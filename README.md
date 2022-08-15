@@ -19,6 +19,7 @@ This will *only* happen on your very first launch.)
 7. Installation of mods differs from game to game.
 
 Note 1: Games that aren't listed here "https://steamdb.info/sub/17906/apps/" are not guaranteed to work.
+
 Note 2: If a game does not work, try to download the mods using the AppID (Homepage) of it's dedicated server.
 
 

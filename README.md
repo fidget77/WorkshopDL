@@ -1,4 +1,4 @@
-# WorkshopDL
+# WorkshopDL ![GitHub all releases](https://img.shields.io/github/downloads/TheVovolo/WorkshopDL/total)
 WorkshopDL - The Ultimate Steam Workshop Downloader
 
 ![Screenshot](https://i.imgur.com/oQlLcq8.png)

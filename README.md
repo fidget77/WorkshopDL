@@ -50,3 +50,6 @@ Note 2: If a game does not work, try to download the mods using the AppID (Homep
 1. Click on "Options>Reset Config". This will delete all settings you made in WorkshopDL including your saved account.
 
 Note: You might also want to delete the SteamCMD folder, to remove any saved information from there too.
+
+# About the source code:
+You need Clickteam Fusion 2.5 to open the .mfa file.

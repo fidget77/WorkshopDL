@@ -1,6 +1,13 @@
 ```
+Version 1.4.1
+[*] Removed legacy code.
+[*] Auto-Try is now enabled by default.
+[*] Various minor fixes and optimizations.
+
 Version 1.4.0
 [*] Fixed a bug where it wouldn't download mods if you hadn't used a prior version.
+[*] Added a menu option that opens the download folder of 3rd party downloads. (Not SteamCMD downloads.)
+[! ] The 3rd Download Provider option has a lot of issues lately. I would suggest not bothering with it. I did not remove it because sometimes it works.
 
 Version 1.3.9
 [*] Mods downloaded with "steamusercontent-a.akamaihd.net" are now downloaded from WorkshopDL and renamed automatically.

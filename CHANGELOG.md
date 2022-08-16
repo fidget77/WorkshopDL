@@ -1,4 +1,11 @@
 ```
+Version 1.4.0
+[*] Fixed a bug where it wouldn't download mods if you hadn't used a prior version.
+
+Version 1.3.9
+[*] Mods downloaded with "steamusercontent-a.akamaihd.net" are now downloaded from WorkshopDL and renamed automatically.
+[*] Upgraded the engine to Clickteam Fusion 2.5 (Build 294.3 - BETA) which improved startup speeds on some older machines.
+
 Version 1.3.8
 [*] Added a new method of grabbing mods.
 [*] Added an option to auto-try other providers if your selected one fails.

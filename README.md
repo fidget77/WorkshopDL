@@ -1,5 +1,5 @@
 Since most of the popular workshop downloading websites have shutdown or instruct users to download & use SteamCMD, a command-line program,
-I've decided to make my own standalone workshop downloader with a GUI to make things easier.
+I've decided to make my own standalone workshop downloader with a GUI to make things easier. First released on the rin forum, It is now on GitHub too.
 # WorkshopDL ![GitHub all releases](https://img.shields.io/github/downloads/TheVovolo/WorkshopDL/total)
 WorkshopDL - A Steam Workshop Downloader
 
@@ -55,8 +55,6 @@ Note: You might also want to delete the SteamCMD folder, to remove any saved inf
 
 # About the Source Code:
 You need Clickteam Fusion 2.5 to open the .mfa file.
-
-You can find and download the source code on this post: https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583
 
 # Other
 The rin post: https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583.

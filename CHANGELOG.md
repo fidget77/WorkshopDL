@@ -1,4 +1,8 @@
 ```
+Version 1.4.2
+[*] Updated the supported games list.
+[*] Fixed a minor bug with the mod list.
+
 Version 1.4.1
 [*] Removed legacy code.
 [*] Auto-Try is now enabled by default.

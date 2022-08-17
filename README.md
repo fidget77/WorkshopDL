@@ -55,6 +55,3 @@ Note: You might also want to delete the SteamCMD folder, to remove any saved inf
 
 # About the Source Code:
 You need Clickteam Fusion 2.5 to open the .mfa file.
-
-# Other
-The rin post: https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583.

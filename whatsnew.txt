@@ -1,5 +1,2 @@
-Version 1.4.7
-
-[*] Fixed an issue when selecting a custom download provider while "Download with SteamWebAPI" is enabled.
-
-[*] Changed some text.
+Version 1.4.8
+[*] When an update is found it will now display the changelog.

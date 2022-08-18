@@ -1,2 +1,2 @@
 Version 1.4.8
-[*] When an update is found it will now display the changelog.
+[*] When an update is found, it will display the changelog.

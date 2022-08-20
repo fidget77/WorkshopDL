@@ -1,4 +1,7 @@
-Version 1.5.1
+Version 1.5.2
+[*] Fixed a bug with the download button.
+
+Previous version's (v1.5.1) patchnotes
 [*] Added GGNetwork as a download provider. (They support a variety of games & Wallpaper Engine!)
 To download mods using GGNetwork, right-click then go to "Download Providers" and select GGNetwork.
 [! ] If you have "Download unsupported games with SteamWebAPI" checked, it will do a 1 time download

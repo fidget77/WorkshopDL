@@ -11,7 +11,8 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Steps to reproduce the behavior. Example:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -24,7 +25,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - Version [e.g. v1.5.2]
+ - Version [e.g. v1.5.3]
 
 **Additional context**
 Add any other context about the problem here.

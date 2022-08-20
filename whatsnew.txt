@@ -1,8 +1,13 @@
+Version 1.5.4
+[*] Fixed the download error logic for 3rd party downloads.
+[*] Removed the donation button.
+[*] Changed some buttons.
+
+Previous versions (v1.5.3, v1.5.2 & v1.5.1) patchnotes:
+
 Version 1.5.3
 [*] Fixed the "Add To List" button being disabled even though SteamCMD is selected.
 [*] Fixed some bugs when choosing download providers.
-
-Previous versions (v1.5.2 & v1.5.1) patchnotes:
 
 Version 1.5.2
 [*] Fixed a bug with the download button.

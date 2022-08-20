@@ -1,6 +1,6 @@
 <em>Since most of the popular workshop downloading websites have shutdown or instruct users to download & use SteamCMD, a command-line program,
 I've decided to make my own standalone workshop downloader with a GUI to make things easier.</em>
-# WorkshopDL [![GitHub all releases](https://img.shields.io/github/downloads/VovoloGames/WorkshopDL/total?style=flat-square)](https://github.com/VovoloGames/WorkshopDL/releases)
+# WorkshopDL [![GitHub all releases](https://img.shields.io/github/downloads/VovoloGames/WorkshopDL/total?style=flat-square)](https://github.com/VovoloGames/WorkshopDL/releases) [![Version](https://img.shields.io/github/v/tag/VovoloGames/WorkshopDL?label=Version&style=flat-square&color=darkred)](https://github.com/VovoloGames/WorkshopDL/releases)
 WorkshopDL - A Steam Workshop Downloader
 
 ![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1.png)

@@ -1,2 +1,2 @@
 Version 1.5.0
-[*] Fixed getting stuck on downloads when the game is unsupported.
+[*] Fixed getting stuck on an infinite downloading loop of nothingness, when a game is unsupported.

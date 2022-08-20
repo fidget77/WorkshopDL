@@ -12,6 +12,17 @@ WorkshopDL - A Steam Workshop Downloader
 # What is WorkshopDL?
 Do you own a game on a different platform than Steam (Like GOG or the Epic Games Store) and you always wanted to use mods from the Steam workshop? WorkshopDL allows you to download mods from the Steam workshop for free! It currently supports more than 900+ games!
 
+## Features
+* User-friendly GUI.
+* Very easy to use.
+* You can download workshop collections!
+* You can download both anonymously or using your personal Steam account (Optional).
+* You can Import URLs from a text file.
+* You can save your mod queue as a text file.
+* Auto-URL detection and Auto-Queueing
+* Unlike similar tools, it actually works.
+* It offers multiple ways to download mods. SteamCMD, SteamWebAPI... and more to come!
+
 ## How To Use:
 `(You can read more information for various issues, inside WorkshopDL by going at "Help>Support".)`
 

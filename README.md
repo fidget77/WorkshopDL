@@ -20,7 +20,6 @@ Do you own a game on a different platform than Steam (Like GOG or the Epic Games
 * You can Import URLs from a text file.
 * You can save your mod queue as a text file.
 * Auto-URL detection and Auto-Queueing
-* Unlike similar tools, it actually works.
 * It offers multiple ways to download mods. SteamCMD, SteamWebAPI... and more to come!
 
 ## How To Use:

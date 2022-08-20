@@ -1,2 +1,5 @@
-Version 1.5.0
-[*] Fixed getting stuck on an infinite downloading loop of nothingness, when a game is unsupported.
+Version 1.5.1
+[*] Added GGNetwork as a download provider. (They support a variety of games & Wallpaper Engine!)
+To download mods using GGNetwork, right-click then go to "Download Providers" and select GGNetwork.
+[! ] If you have "Download unsupported games with SteamWebAPI" checked, it will do a 1 time download
+with GGNetwork and revert back to SteamCMD & SteamWebAPI.

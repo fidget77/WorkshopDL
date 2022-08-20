@@ -1,2 +1,7 @@
-Version 1.4.8
-[*] When an update is found, it will display the changelog.
+Version 1.4.9
+[*] Renamed the "Help>Contents" menu bar option to "Help>Support".
+[*] Added "Import mods from Workshop Collection" on the right-click menu.
+[*] The "(?)" next to the supported games dropbox, now acts and as a button that opens the Support menu.
+[*] Added a temporary donation button. (All donations will be denied after we reach the goals)
+[*] Improved readability of certain menus.
+[*] Fixed minor annoyances.

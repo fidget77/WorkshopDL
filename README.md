@@ -46,4 +46,4 @@ Note 2: If a game does not work, try to download the mods using the AppID (Homep
 
 
 # About the Source Code:
-You need Clickteam Fusion 2.5 to open the .mfa file.
+You need Clickteam Fusion 2.5 to open the .mfa file, as WorkshopDL was made using it.

@@ -1,4 +1,2 @@
-Version 1.5.4
-[*] Fixed the download error logic for 3rd party downloads.
-[*] Removed the donation button.
-[*] Changed some buttons.
+Version 1.5.6
+[*] Fixed Import from workshop collection that was broken in v1.5.5.

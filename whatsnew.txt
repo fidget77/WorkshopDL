@@ -1,3 +1,7 @@
+Version 1.5.7 (Latest)
+[*] Moved the droplist upwards, because it could overlay the "logged in as" text.
+[*] Improved startup times, by changing some build settings.
+
 Version 1.5.6
 [*] Fixed Import from workshop collection that was broken in v1.5.5.
 [*] Added a droplist for choosing providers.

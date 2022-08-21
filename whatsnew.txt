@@ -1,3 +1,5 @@
-Version 1.5.7
-[*] Moved the droplist upwards, because it could overlay the "logged in as" text.
-[*] Improved startup times, by changing some build settings.
+Version 1.5.8
+[*] Added an option to clear the downloads folder.
+[*] Grouped all downloads, from all providers, to the same folder.
+[*] The temporary cache will be cleared when you close WorkshopDL,
+deleting corrupted files. (No more 9GB+ steamcmd folders!)

@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/banner_nobackground.png)
+![Banner](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/banner_opaque.png)
 
 <em>Since most of the popular workshop downloading websites have shutdown or instruct users to download & use SteamCMD, a command-line program,
 I've decided to make my own standalone workshop downloader with a GUI to make things easier.</em>

@@ -2,3 +2,9 @@ Version 1.5.9
 [*] Changed all menu bar icons.
 [*] Removed some right-click shortcuts that did nothing.
 [*] Moved "File>Clear the Downloads Folder" to "Options>Clear the Downloads Folder", to avoid accidental deletions.
+ + (Version 1.5.8 Changelog)
+[*] Added an option to clear the downloads folder.
+[*] Grouped all downloads, from all providers, to the same folder.
+[*] The temporary cache will be cleared when you close WorkshopDL,
+deleting corrupted files. (No more 9GB+ steamcmd folders!)
+

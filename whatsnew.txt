@@ -1,3 +1,4 @@
-Version 1.5.5
-[*] Added a dropbox where you can choose download providers.
-It will also display which one is currently being used.
+Version 1.5.4
+[*] Fixed the download error logic for 3rd party downloads.
+[*] Removed the donation button.
+[*] Changed some buttons.

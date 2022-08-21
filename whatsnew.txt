@@ -9,4 +9,3 @@ Version 1.5.9
 [*] Grouped all downloads, from all providers, to the same folder.
 [*] The temporary cache will be cleared when you close WorkshopDL,
 deleting corrupted files. (No more 9GB+ steamcmd folders!)
-

@@ -24,7 +24,7 @@ Do you own a game on a different platform than Steam (Like GOG or the Epic Games
 - Auto-URL detection and Auto-Queueing
 - It offers multiple ways to download mods. SteamCMD, SteamWebAPI... and more to come!
 
-## How To Use:
+## How To Use
 `(You can read more information for various issues, inside WorkshopDL by going at "Help>Support".)`
 
 1. Execute "WorkshopDL.exe"
@@ -47,5 +47,5 @@ Note 1: Games that aren't listed here "https://steamdb.info/sub/17906/apps/" are
 Note 2: If a game does not work, try to download the mods using the AppID (Homepage) of it's dedicated server.
 
 
-# About the Source Code:
+# About the Source Code
 You need [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.

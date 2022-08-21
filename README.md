@@ -5,11 +5,11 @@ I've decided to make my own standalone workshop downloader with a GUI to make th
 # WorkshopDL [![Version](https://img.shields.io/github/v/tag/VovoloGames/WorkshopDL?label=version&style=flat-square&color=black)](https://github.com/VovoloGames/WorkshopDL/releases) [![GitHub all releases](https://img.shields.io/github/downloads/VovoloGames/WorkshopDL/total?label=downloads&style=flat-square)](https://github.com/VovoloGames/WorkshopDL/releases)
 WorkshopDL - A Steam Workshop Downloader
 
-![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1.png)
+![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screen1.png)
 
-![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot2.png)
+![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screen2.png)
 
-![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot3.png)
+![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screen3.png)
 
 # What is WorkshopDL?
 Do you own a game on a different platform than Steam (Like GOG or the Epic Games Store) and you always wanted to use mods from the Steam workshop? WorkshopDL allows you to download mods from the Steam workshop for free! It currently supports more than 900+ games!

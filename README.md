@@ -47,8 +47,8 @@ Note 1: Games that aren't listed here "https://steamdb.info/sub/17906/apps/" are
 
 Note 2: If a game does not work, try to download the mods using the AppID (Homepage) of it's dedicated server.
 
-# About the Source Code
-You need [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.
-
 # Miscellaneous
 [![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93)
+
+# About the Source Code
+You need [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.

@@ -2,7 +2,7 @@
 
 <em>Since most of the popular workshop downloading websites have shutdown or instruct users to download & use SteamCMD, a command-line program,
 I've decided to make my own standalone workshop downloader with a GUI to make things easier.</em>
-# WorkshopDL [![Version](https://img.shields.io/github/v/tag/VovoloGames/WorkshopDL?label=version&style=flat-square&color=black)](https://github.com/VovoloGames/WorkshopDL/releases) [![GitHub all releases](https://img.shields.io/github/downloads/VovoloGames/WorkshopDL/total?style=flat-square)](https://github.com/VovoloGames/WorkshopDL/releases) [![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93)
+# WorkshopDL [![Version](https://img.shields.io/github/v/tag/VovoloGames/WorkshopDL?label=version&style=flat-square&color=black)](https://github.com/VovoloGames/WorkshopDL/releases) [![GitHub all releases](https://img.shields.io/github/downloads/VovoloGames/WorkshopDL/total?style=flat-square)](https://github.com/VovoloGames/WorkshopDL/releases)
 WorkshopDL - A Steam Workshop Downloader
 
 ![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1.png)
@@ -47,6 +47,8 @@ Note 1: Games that aren't listed here "https://steamdb.info/sub/17906/apps/" are
 
 Note 2: If a game does not work, try to download the mods using the AppID (Homepage) of it's dedicated server.
 
-
 # About the Source Code
 You need [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.
+
+# Miscellaneous
+[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93)

@@ -75,4 +75,5 @@ Q: Why do people plagiarize your FAQ?
 # About the Source Code
 You need [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.
 #
-<em>Disclaimer: WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.</em>
+<em>WorkshopDL is not affiliated with Valve Corporation or Steam.  
+WorkshopDL is not affiliated with other downloading software.</em>

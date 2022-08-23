@@ -65,8 +65,6 @@ Q: Is this safe to use?
 - A: Yes. It is completely safe! It is impossible to get banned for using this tool.
 If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93) of the latest version.
 
-  Fun fact, WorkshopDL was made in Clickteam Fusion 2.5. The same engine Five Nights At Freddy's was made in.
-
 Q: Why do people plagiarize your FAQ?
 - A: Writing original text is hard for some.
 
@@ -76,8 +74,5 @@ Q: Why do people plagiarize your FAQ?
 
 # About the Source Code
 You need [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.
-
-
-
 #
 <em>Disclaimer: WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.</em>

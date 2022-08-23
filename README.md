@@ -54,13 +54,18 @@ Why would I need this?
 
 How does this work?
 - It pretty much is a GUI that launches Valve's SteamCMD command-line tool with the needed parameters to download the workshop item you want.
-As of version 1.4.4 and above, it has a lot more complicated features, like workshop collection support, the ability to download mods using the SteamWebAPI, a download queue... and the list goes on!
+
+  As of version 1.4.4 and above, it has a lot more complicated features, like workshop collection support, the ability to download mods using the SteamWebAPI, a download queue... and the list goes on!
 
 Which games are supported by WorkshopDL?
-- Games listed here https://steamdb.info/sub/17906/apps/ will work with no issues. Other games might work too, but it is not guaranteed.
+- Games listed here https://steamdb.info/sub/17906/apps/ will work with no issues.
+Other games might work too, but it is not guaranteed.
 
 Is this safe to use?
-- Yes. It is completely safe! It is impossible to get banned for using this tool. If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93) of the latest version. Fun fact, WorkshopDL was made in Clickteam Fusion 2.5. The same engine Five Nights At Freddy's was made in.
+- Yes. It is completely safe! It is impossible to get banned for using this tool.
+If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93) of the latest version.
+
+  Fun fact, WorkshopDL was made in Clickteam Fusion 2.5. The same engine Five Nights At Freddy's was made in.
 
 Why do people plagiarize your FAQ?
 - Writing original text is hard for some.

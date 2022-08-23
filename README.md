@@ -50,7 +50,7 @@ Note 2: If a game does not work, try to download the mods using the AppID (Homep
 
 ## FAQ
 Q: Why would I need this?  
->  A: If you own a game on a different platform like GOG or the Epic Games store, you can not download mods for the game, as the majority of mods are locked >inside Steam's workshop. So instead of buying the game a second time to access the mods, you can simply use this tool.
+>  A: If you own a game on a different platform like GOG or the Epic Games store, you can not download mods for the game, as the majority of mods are locked >inside Steam's workshop. So instead of buying the game a second time to access the mods, you can simply use WorkshopDL.
 
 Q: How does this work?  
 >  A: It pretty much is a GUI that launches Valve's SteamCMD commandline tool with the needed parameters to download the workshop item you want.  
@@ -66,7 +66,7 @@ Q: Is this safe to use?
 >If you mean virus-wise, it is clean and opensource! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93) of the latest version.
 
 Q: Why do people plagiarize your FAQ?  
-> A: Writing original text is hard.
+> A: Writing original text, is hard for some people.
 #
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)

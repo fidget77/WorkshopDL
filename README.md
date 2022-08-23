@@ -33,7 +33,7 @@ Do you own a game on a different platform than Steam (Like GOG or the Epic Games
 Do *not* open the "steamcmd.exe" located inside the steamcmd folder.
 
 2. At the "Workshop Homepage" box simply copy & paste, inside the box, the game's workshop homepage URL.
-For example, here is a workshop homepage "https://steamcommunity.com/app/4000/workshop/".
+For example, here is a workshop homepage https://steamcommunity.com/app/4000/workshop/.
 
 3. At the "Workshop mod URL" box simply copy & paste, inside the box, the URL of the mod you want to download.
 
@@ -44,7 +44,7 @@ This will *only* happen on your very first launch.)
 5. After the download is completed the folder containing the mod will open on a separate window.
 6. Installation of mods differs from game to game.
 
-Note 1: Games that aren't listed here "https://steamdb.info/sub/17906/apps/" are not guaranteed to work.
+Note 1: Games that aren't listed here https://steamdb.info/sub/17906/apps/ are not guaranteed to work.
 
 Note 2: If a game does not work, try to download the mods using the AppID (Homepage) of it's dedicated server.
 

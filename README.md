@@ -22,6 +22,7 @@ Do you own a game on a different platform than Steam (Like GOG or the Epic Games
 - You can Import URLs from a text file.
 - You can save your mod queue as a text file.
 - Auto-URL detection and Auto-Queueing
+- Unlike similar tools, it actually works.
 - Automatically clears leftover files from canceled downloads and corrupted files, that occupy free space.
 - It offers multiple ways to download mods. SteamCMD, SteamWebAPI... and more to come!
 
@@ -51,13 +52,24 @@ Note 2: If a game does not work, try to download the mods using the AppID (Homep
 Why would I need this?
 - If you own a game on a different platform like GOG or the Epic Games store, you can not download mods for the game, as the majority of mods are locked inside Steam's workshop. So instead of buying the game a second time to access the mods, you can simply use this tool.
 
+How does this work?
+- It pretty much is a GUI that launches Valve's SteamCMD command-line tool with the needed parameters to download the workshop item you want.
+As of version 1.4.4 and above, it has a lot more complicated features, like workshop collection support, the ability to download mods using the SteamWebAPI, a download queue... and the list goes on!
+
+Which games are supported by WorkshopDL?
+- Games listed here https://steamdb.info/sub/17906/apps/ will work with no issues. Other games might work too, but it is not guaranteed.
+
 Is this safe to use?
 - Yes. It is completely safe! It is impossible to get banned for using this tool. If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93) of the latest version.
 
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
-
 [![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.6.0%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93)
 
 # About the Source Code
 You need [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.
+
+
+
+#
+<em>Disclaimer: WorkshopDL is not affiliated with Valve Corporation or Steam.</em>

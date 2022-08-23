@@ -63,7 +63,7 @@ Other games might work too, but it is not guaranteed.
 
 Q: Is this safe to use?  
   A: Yes. It is completely safe! It is impossible to get banned for using this tool.
-If you mean viruswise, it is clean and opensource! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93) of the latest version.
+If you mean virus-wise, it is clean and opensource! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93) of the latest version.
 
 Q: Why do people plagiarize your FAQ?  
  A: Writing original text is hard for some.

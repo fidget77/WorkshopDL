@@ -62,7 +62,7 @@ Which games are supported by WorkshopDL?
 Is this safe to use?
 - Yes. It is completely safe! It is impossible to get banned for using this tool. If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93) of the latest version.
 
-Was do people plagiarize your FAQ?
+Why do people plagiarize your FAQ?
 - Writing is hard.
 
 # Miscellaneous

@@ -60,7 +60,7 @@ Which games are supported by WorkshopDL?
 - Games listed here https://steamdb.info/sub/17906/apps/ will work with no issues. Other games might work too, but it is not guaranteed.
 
 Is this safe to use?
-- Yes. It is completely safe! It is impossible to get banned for using this tool. If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93) of the latest version.
+- Yes. It is completely safe! It is impossible to get banned for using this tool. If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93) of the latest version. Fun fact, WorkshopDL was made in Clickteam Fusion 2.5. The same engine Five Nights At Freddy's was made in.
 
 Why do people plagiarize your FAQ?
 - Writing original text is hard for some.
@@ -75,4 +75,4 @@ You need [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) 
 
 
 #
-<em>Disclaimer: WorkshopDL is not affiliated with Valve Corporation or Steam.</em>
+<em>Disclaimer: WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.</em>

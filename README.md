@@ -50,7 +50,7 @@ Note 2: If a game does not work, try to download the mods using the AppID (Homep
 
 ## FAQ
 Q: Why would I need this?  
->  A: If you own a game on a different platform like GOG or the Epic Games store, you can not download mods for the game, as the majority of mods are locked >inside Steam's workshop. So instead of buying the game a second time to access the mods, you can simply use WorkshopDL.
+>  A: If you own a game on a different platform like GOG or the Epic Games store, you can not download mods for the game, as the majority of mods are locked inside Steam's workshop. So instead of buying the game a second time to access the mods, you can simply use WorkshopDL.
 
 Q: How does this work?  
 >  A: It pretty much is a GUI that launches Valve's SteamCMD commandline tool with the needed parameters to download the workshop item you want.  

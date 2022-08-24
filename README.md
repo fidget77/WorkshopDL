@@ -46,7 +46,7 @@ This will *only* happen on your very first launch.)
 
 Note 1: Games that aren't listed here https://steamdb.info/sub/17906/apps/ are not guaranteed to work.
 
-Note 2: If a game does not work, try to download the mods using the AppID (Homepage) of it's dedicated server.
+Note 2: If a game does not work, try to download the mods using the AppID (Homepage) of it's dedicated server. You can also try downloading with SteamWebAPI. It works with a lot of SteamCMD unsupported games, usually single-player ones.
 
 ## FAQ
 Q: Why would I need this?  

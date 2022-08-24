@@ -67,12 +67,16 @@ Q: Is this safe to use?
 
 Q: Why do people plagiarize your FAQ?  
 > A: Writing original text, is hard for some people.
-#
+
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
 [![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.6.0%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93)
 
 # About the Source Code
 You need [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.
+
+# Donate
+You can donate Steam keys or wallet codes at vovologames[at]proton[dot]me
+
 #
 ###### <p><em>WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.</em></p>

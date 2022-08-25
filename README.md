@@ -48,8 +48,6 @@ Note 1: Games that aren't listed here https://steamdb.info/sub/17906/apps/ are n
 
 Note 2: If a game does not work, try to download the mods using the AppID (Homepage) of it's dedicated server. You can also try downloading with SteamWebAPI. It works with a lot of SteamCMD unsupported games, usually single-player ones.
 
-Note 3: For Garry's Mod, you will need this [open-source tool](https://github.com/VovoloGames/Garrysmod-Unpacker) I've made, to unpack the .gma mod files.
-
 ## FAQ
 Q: Why would I need this?  
 >  A: If you own a game on a different platform like GOG or the Epic Games store, you can not download mods for the game, as the majority of mods are locked inside Steam's workshop. So instead of buying the game a second time to access the mods, you can simply use WorkshopDL.
@@ -65,14 +63,14 @@ Other games might work too, but it is not guaranteed.
 
 Q: Is this safe to use?  
 >  A: Yes. It is completely safe! It is impossible to get banned for using this tool.
->If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93) of the latest version.
+>If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/165aaf31bf84a44270c1b784f3891f014e359d658ac756bcf58a9244283239e4) of the latest version.
 
 Q: Why do people plagiarize your FAQ?  
 > A: Writing original text, is hard for some people.
 
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
-[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.6.0%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/aaa76a09f7947645017e6557cb47e36016047645d218c90401651cbb4fffbc93)
+[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.6.1%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/165aaf31bf84a44270c1b784f3891f014e359d658ac756bcf58a9244283239e4)
 
 # About the Source Code
 You need [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.

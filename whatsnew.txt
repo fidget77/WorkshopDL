@@ -1,5 +1,5 @@
 Version 1.6.1
-[*] Added a Garry's Mod mod unpacker. File>Tools>Garry's Mod Unpacker
+[*] Added a Garry's Mod, mod unpacker. File>Tools>Garry's Mod Unpacker
 (You must unpack the mods in order to use them in-game. Now you can do that within WorkshopDL)
 
 How to use the Garry's Mod mod unpacker:

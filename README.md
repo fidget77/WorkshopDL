@@ -80,7 +80,5 @@ You need [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) 
 If you want, you can donate Steam keys or wallet codes to my email.  
 vovologames[at]proton[dot]me  
 
-The wallet funds will be used to buy https://store.steampowered.com/app/267810/Clickteam_Fusion_25_Developer_Upgrade/ which will allow for more complex methods of downloading mods.
-
 #
 ###### WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.

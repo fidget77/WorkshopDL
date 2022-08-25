@@ -48,6 +48,8 @@ Note 1: Games that aren't listed here https://steamdb.info/sub/17906/apps/ are n
 
 Note 2: If a game does not work, try to download the mods using the AppID (Homepage) of it's dedicated server. You can also try downloading with SteamWebAPI. It works with a lot of SteamCMD unsupported games, usually single-player ones.
 
+Note 3: For Garry's Mod, you will need this [open-source tool](https://github.com/VovoloGames/Garrysmod-Unpacker) I've made, to unpack the .gma mod files.
+
 ## FAQ
 Q: Why would I need this?  
 >  A: If you own a game on a different platform like GOG or the Epic Games store, you can not download mods for the game, as the majority of mods are locked inside Steam's workshop. So instead of buying the game a second time to access the mods, you can simply use WorkshopDL.

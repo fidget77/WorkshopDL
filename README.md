@@ -81,4 +81,4 @@ If you want, you can donate Steam keys or wallet codes to my email.
 vovologames[at]proton[dot]me  
 
 #
-###### WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.
+###### <em>WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.</em>

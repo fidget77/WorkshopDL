@@ -1,10 +1,3 @@
-Version 1.6.1
-[*] Added a Garry's Mod, mod unpacker. File>Tools>Garry's mod Unpacker
-(You must unpack the mods in order to use them in-game. Now you can do that within WorkshopDL)
-
-How to use the Garry's Mod mod unpacker:
-1. Select the folder where you have installed Garry's Mod.
-2. Select the .gma mod you want to unpack.
-3. Click unpack and you are done!
-
-You can find the unpacked mod, at the location of the original mod before unpacking it.
+Version 1.6.2
+[*] Added an option to transfer downloaded files to another location.
+(File>Transfer Downloaded Files)

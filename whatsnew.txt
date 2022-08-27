@@ -1,3 +1,6 @@
 Version 1.6.3
 [*] Changed the "Transfer Downloaded Files" option to a "Mod Installer" that works. Thanks @dtoxic47 for suggesting it. 
 [*] Changed it's UI to mitigate errors.
+
+Note: When using the mod installer, if there are raw files with the same name inside, they might get overwritten.  
+This is very unlikely but can happen with some garbage and lazily done Garry's mod mods.

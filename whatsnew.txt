@@ -1,2 +1,2 @@
-Version 1.6.5
-[*] Improved the mod validation algorithm.
+Version 1.6.6
+[*] Added a clickable tray icon to stop the validation process when looping.

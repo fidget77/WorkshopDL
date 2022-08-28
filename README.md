@@ -18,6 +18,7 @@ Do you own a game on a different platform than Steam (Like GOG or the Epic Games
 - Very easy to use.
 - User-friendly GUI.
 - Includes a handy mod installer.
+- Download any mod no matter what it's file size is!
 - Includes a Garry's mod, <em>mod</em> unpacker!
 - You can download workshop collections!
 - You can download both anonymously or using your personal Steam account (Optional).

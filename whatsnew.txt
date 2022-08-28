@@ -1,6 +1,4 @@
-Version 1.6.3
-[*] Changed the "Transfer Downloaded Files" option to a "Mod Installer" that works. Thanks @dtoxic47 for suggesting it. 
-[*] Changed it's UI to mitigate errors.
-
-Note: When using the mod installer, if there are raw files with the same name inside, they might get overwritten.  
-This is very unlikely but can happen with some garbage and lazily done Garry's mod mods.
+Version 1.6.4
+[*] You can now download mods that are over 1GB using the validate option.
+    (Files>Validate A Mod)
+[*] Added support for 6 new games.

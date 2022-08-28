@@ -1,4 +1,2 @@
-Version 1.6.4
-[*] You can now download mods that are over 1GB using the validate option.
-    (Files>Validate A Mod)
-[*] Added support for 6 new games.
+Version 1.6.5
+[*] Improved the mod validation algorithm.

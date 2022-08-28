@@ -28,7 +28,7 @@ Do you own a game on a different platform than Steam (Like GOG or the Epic Games
 - The program is self-contained. No setups, no bloat.
 - It offers multiple ways to download mods. SteamCMD, SteamWebAPI... and more to come!
 - Automatically clears leftover files from canceled downloads and corrupted files, that occupy free space.
-- Download any mod no matter what it's file size is! (Use the "File>Validate A Mod" option if the mod is 1GB+)
+- Download any mod no matter what it's file size is! (Use the "File>Validate Mod" option if the mod is 1GB+)
 
 ## How To Use
 `(You can read more information for various issues, inside WorkshopDL by going at "Help>Support".)`

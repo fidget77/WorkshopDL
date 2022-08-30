@@ -27,7 +27,7 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 - The program is self-contained. No setups, no bloat.
 - It offers multiple ways to download mods. SteamCMD, SteamWebAPI... and more to come!
 - Automatically clears leftover files from canceled downloads and corrupted files, that occupy free space.
-- Download any mod no matter what it's file size is! (Use the "File>Validate Mod" option if the mod is 1GB+)
+- Download 1GB+ mods (Use the "File>Download 1GB+ mod" option if the mod is 1GB+)
 
 ## How To Use
 `(You can read more information for various issues, inside WorkshopDL by going at "Help>Support".)`
@@ -66,7 +66,7 @@ Other games might work too, but it is not guaranteed.
 
 Q: Is this safe to use?  
 >  A: Yes. It is completely safe! It is impossible to get banned for using this tool.
->If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](hhttps://www.virustotal.com/gui/file/14a791adc669512b054ac763b71580e1bb40f81409710d1adec037f1949206c6) of the latest version.
+>If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/14a791adc669512b054ac763b71580e1bb40f81409710d1adec037f1949206c6) of the latest version.
 
 Q: Why do people plagiarize your FAQ?  
 > A: Writing original text, is hard for some people.

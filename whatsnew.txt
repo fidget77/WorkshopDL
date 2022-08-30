@@ -1,2 +1,3 @@
-Version 1.6.6
-[*] Added a clickable tray icon to stop the validation process when looping.
+Version 1.6.7
+[*] Added the option "Options>Remember Last Used Game".
+[*] Renamed "Validate Mod" to "Download 1GB+ mod (Does not work with lists)".

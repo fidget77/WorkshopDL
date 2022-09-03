@@ -68,9 +68,6 @@ Q: Is this safe to use?
 >  A: Yes. It is completely safe! It is impossible to get banned for using this tool.
 >If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/14a791adc669512b054ac763b71580e1bb40f81409710d1adec037f1949206c6) of the latest version.
 
-Q: Why do people plagiarize your FAQ?  
-> A: Writing original text, is hard for some people.
-
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
 [![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.6.7%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/14a791adc669512b054ac763b71580e1bb40f81409710d1adec037f1949206c6)

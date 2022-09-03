@@ -76,7 +76,7 @@ Q: Why do people plagiarize your FAQ?
 [![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.6.7%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/14a791adc669512b054ac763b71580e1bb40f81409710d1adec037f1949206c6)
 
 # About the Source Code
-You need [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.
+You need [Clickteam Fusion 2.5 (Build R294.4 - BETA)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.
 
 # Donate
 If you want, you can donate Steam keys or wallet codes to my email.  

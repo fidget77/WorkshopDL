@@ -17,6 +17,7 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 ## Features
 - Very easy to use.
 - User-friendly GUI.
+- Supports 1GB+ mods.
 - Includes a handy mod installer.
 - Includes a Garry's mod, <em>mod</em> unpacker!
 - You can download workshop collections!
@@ -27,7 +28,6 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 - The program is self-contained. No setups, no bloat.
 - It offers multiple ways to download mods. SteamCMD, SteamWebAPI... and more to come!
 - Automatically clears leftover files from canceled downloads and corrupted files, that occupy free space.
-- Download 1GB+ mods (Use the "File>Download 1GB+ mod" option if the mod is 1GB+)
 
 ## How To Use
 `(You can read more information for various issues, inside WorkshopDL by going at "Help>Support".)`

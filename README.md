@@ -74,6 +74,7 @@ Q: Is this safe to use?
 
 # About the Source Code
 You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.4)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.  
+
 I would like to thank Clickteam for making such a powerful and amazing product!
 
 # Donate

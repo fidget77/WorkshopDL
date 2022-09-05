@@ -70,7 +70,7 @@ Q: Is this safe to use?
 
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
-[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.7.0%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/776c34ce2f103c30cc14943430d79980b72c04a6983c22f2c28ea86e21443dcb)
+[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.7.1%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/776c34ce2f103c30cc14943430d79980b72c04a6983c22f2c28ea86e21443dcb)
 
 # About the Source Code
 You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.4)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.   

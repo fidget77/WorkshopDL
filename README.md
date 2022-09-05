@@ -66,11 +66,11 @@ Other games might work too, but it is not guaranteed.
 
 Q: Is this safe to use?  
 >  A: Yes. It is completely safe! It is impossible to get banned for using this tool.
->If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/751b12fb7b917275817b911bb4a73daac2ac33e6412e17d3547eb15aaad87b62) of the latest version.
+>If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/776c34ce2f103c30cc14943430d79980b72c04a6983c22f2c28ea86e21443dcb) of the latest version.
 
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
-[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.7.0%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/751b12fb7b917275817b911bb4a73daac2ac33e6412e17d3547eb15aaad87b62)
+[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.7.0%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/776c34ce2f103c30cc14943430d79980b72c04a6983c22f2c28ea86e21443dcb)
 
 # About the Source Code
 You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.4)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.   

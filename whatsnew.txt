@@ -1,5 +1,5 @@
 Version 1.7.4
-[*] Added full support for windows visual themes.
+[*] Added full support for Windows Visual Themes/Visual Styles.
 
 Version 1.7.2
 [*] Fixed a bug with the right click menu.

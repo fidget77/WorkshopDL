@@ -98,10 +98,7 @@ Q: Is this safe to use?
 [![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.7.4%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/5fb50ca8ad5205e643b1ab12997838ac92aa715d77acbe458bef8e9e74f113ee)
 
 # About the Source Code
-You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.4)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file, as WorkshopDL was made using it.   
-I would like to thank Clickteam for making such a powerful and amazing product!  
-
-WorkshopDL would not have been made without it.
+You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.4 - BETA)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.
 
 # Donate
 If you want, you can donate Steam keys or wallet codes to my email.  

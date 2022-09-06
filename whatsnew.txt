@@ -1,3 +1,6 @@
+Version 1.7.4
+[*] Added full support for windows visual themes.
+
 Version 1.7.2
 [*] Fixed a bug with the right click menu.
 

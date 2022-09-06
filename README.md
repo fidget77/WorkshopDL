@@ -9,21 +9,21 @@ I've decided to make my own standalone workshop downloader with a GUI to make th
 <summary>With the Windows 10 Theme</summary>
 <br>
 
-![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1_win10.png)
+[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1_win10.png)](https://github.com/VovoloGames/WorkshopDL/releases)
 
-![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot2_win10.png)
+[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot2_win10.png)](https://github.com/VovoloGames/WorkshopDL/releases)
 
-![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot3_win10.png)
+[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot3_win10.png)](https://github.com/VovoloGames/WorkshopDL/releases)
 </details>
 <details closed>
 <summary>With the Windows 11 Theme</summary>
 <br>
 
-![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1.png)
+[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1.png)](https://github.com/VovoloGames/WorkshopDL/releases)
 
-![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot2.png)
+[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot2.png)](https://github.com/VovoloGames/WorkshopDL/releases)
 
-![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot3.png)
+[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot3.png)](https://github.com/VovoloGames/WorkshopDL/releases)
 </details>
 
 # What is WorkshopDL?

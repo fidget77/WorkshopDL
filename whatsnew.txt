@@ -1,3 +1,10 @@
+Version 1.7.5
+[*] Fixed typos and made some changes to the garry's mod unpacker.
+[*] Updated the contents menu to better reflect newer changes.
+[*] Added helpful text above certain buttons and dropboxes.
+[*] Fixed mod installer's downloads folder button.
+[*] Fixed some text overlapping.
+
 Version 1.7.4
 [*] Added full support for Windows Visual Themes/Styles.
 

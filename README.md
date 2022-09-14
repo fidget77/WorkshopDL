@@ -25,6 +25,16 @@ I've decided to make my own standalone workshop downloader with a GUI to make th
 
 [![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot3_win11.png)](https://github.com/VovoloGames/WorkshopDL/releases)
 </details>
+<details>
+<summary>Click to view (Ubuntu with Wine)</summary>
+<br>
+
+[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1_ubuntu.png)](https://github.com/VovoloGames/WorkshopDL/releases)
+
+[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot2_ubuntu.png)](https://github.com/VovoloGames/WorkshopDL/releases)
+
+[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot3_ubuntu.png)](https://github.com/VovoloGames/WorkshopDL/releases)
+</details>
 
 # What is WorkshopDL?
 It is a Steam workshop downloader. Do you own a game on a different platform than Steam (Like GOG or the Epic Games Store) and you always wanted to use mods from the Steam workshop? WorkshopDL allows you to download mods from the Steam workshop for free! It currently supports more than 900+ games!

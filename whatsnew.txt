@@ -1,3 +1,11 @@
+Version 1.7.6
+[*] The game id, (workshop homepage), will be grabbed automatically.
+[*] Made the download providers text clickable.
+     When clicked, it will display information about the selected provider.
+[*] Upgraded to a newer version of the engine.
+[*] Added keybind shortcuts.
+[*] Minor improvements.
+
 Version 1.7.5
 [*] Fixed typos and made some changes to the garry's mod unpacker.
 [*] Updated the contents menu to better reflect newer changes.

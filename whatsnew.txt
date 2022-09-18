@@ -1,3 +1,7 @@
+Version 1.7.7
+[*] Fixed some bugs with the id grabbing.
+[*] Added an option to disable/enable it. (It is enabled by default)
+
 Version 1.7.6
 [*] The game id, (workshop homepage), will be grabbed automatically.
 Just enter the mod url.

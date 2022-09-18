@@ -46,6 +46,7 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 - Includes a handy mod installer.
 - Includes a Garry's mod, <em>mod</em> unpacker!
 - You can download workshop collections!
+- Automatically finds the game id (workshop homepage).
 - You can download both anonymously or using your personal Steam account (Optional).
 - You can Import URLs from a text file.
 - You can save your mod queue as a text file.

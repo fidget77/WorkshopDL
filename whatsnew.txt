@@ -5,37 +5,3 @@ Version 1.7.6
 [*] Upgraded to a newer version of the engine.
 [*] Added keybind shortcuts.
 [*] Minor improvements.
-
-Version 1.7.5
-[*] Fixed typos and made some changes to the garry's mod unpacker.
-[*] Updated the contents menu to better reflect newer changes.
-[*] Added helpful text above certain buttons and dropboxes.
-[*] Fixed mod installer's downloads folder button.
-[*] Fixed some text overlapping.
-
-Version 1.7.4
-[*] Added full support for Windows Visual Themes/Styles.
-
-Version 1.7.2
-[*] Fixed a bug with the right click menu.
-
-Version 1.7.1
-[*] The Garry's Mod Addon Unpacker does *not* require gmod to be installed anymore.
-[*] Removed deprecated code.
-[*] Fixed some typos.
-
-Version 1.7.0
-[*] Remade most parts of the program from scratch, aside from sub applications.
-[*] WorkshopDL can now figure if a download was timed out, resuming from
-      where it left. (If stuck, left click the tray icon)
-[*] Added a way to update the supported games list.
-      (Before it was hard coded)
-[*] Fixed an issue when using SteamWebAPI with unsupported games causing it to download random
-       images.
-[*] Changed the way some loops worked, thus preventing the app from
-      freezing.
-[*] Made the source code easy to understand and added comments.
-[*] Improved performance & fixed visual glitches.
-[*] Made error messages more enlightening.
-[*] Added a config editor.
-[*] Made even more changes...

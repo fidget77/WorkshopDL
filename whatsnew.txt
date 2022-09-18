@@ -1,7 +1,7 @@
 Version 1.7.6
 [*] The game id, (workshop homepage), will be grabbed automatically.
 [*] Made the download providers text clickable.
-     When clicked, it will display information about the selected provider.
+When clicked, it will display information about the selected provider.
 [*] Upgraded to a newer version of the engine.
 [*] Added keybind shortcuts.
 [*] Minor improvements.

@@ -1,12 +1,3 @@
-Version 1.7.7
-[*] Fixed some bugs with the id grabbing.
-[*] Added an option to disable/enable it. (It is enabled by default)
-
-Version 1.7.6
-[*] The game id, (workshop homepage), will be grabbed automatically.
-Just enter the mod url.
-[*] Made the download providers text clickable.
-When clicked, it will display information about the selected provider.
-[*] Upgraded to a newer version of the engine.
-[*] Added keybind shortcuts.
-[*] Minor improvements.
+Version 1.7.8
+[*] Improved visual feedback.
+[*] Fixed some minor bugs.

@@ -55,6 +55,8 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 - It offers multiple ways to download mods. SteamCMD, SteamWebAPI... and more to come!
 - Automatically clears leftover files from canceled downloads and corrupted files, that occupy free space.
 
+<em>Note: For some games, you might need to manually add the file extension to the mod.</em>
+
 ## How To Use
 <details closed>
 <summary>Click to read</summary>

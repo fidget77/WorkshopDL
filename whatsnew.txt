@@ -4,5 +4,5 @@ Version 1.8.0
 [*] Fixed the download validation check.
 [*] Improved some minor visual stuff.
 [*] Fixed a bug that caused the program to freeze when toggling the
-    "Auto-find the workshop homepage/game id" setting.
+"Auto-find the workshop homepage/game id" setting.
 [*] Made some internal changes to the garry's mod unpacker.

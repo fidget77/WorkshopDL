@@ -1,7 +1,5 @@
-Version 1.8.0
-[*] Fixed support for Project Zomboid and some other games.
-[*] Fixed "use Steam account for downloads" not working properly.
-[*] Fixed the download validation check.
-[*] Improved some minor visual stuff.
-[*] Fixed a bug that caused the program to freeze when toggling the "Auto-find the workshop homepage/game id" setting.
-[*] Made some internal changes to the garry's mod unpacker.
+Version 1.8.1
+[*] Removed some leftover debug code.
+[*] Improved the mod list validation check.
+[*] If you have "remember last game" enabled, the
+"Auto-find the workshop homepage/game id" setting will be skipped.

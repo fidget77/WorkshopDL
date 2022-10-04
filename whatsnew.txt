@@ -1,5 +1,12 @@
-Version 1.8.1
-[*] Removed some leftover debug code.
-[*] Improved the mod list validation check.
-[*] If you have "remember last game" enabled, the
-"Auto-find the workshop homepage/game id" setting will be skipped.
+Version 1.8.2
+[*] Added support for more games using the Helcer download provider.
+ 
+Helcer supported games:
+
+  Cities Skylines
+  Darkest Dungeon
+  Goat Simulator
+  Wallpaper Engine
+  Starwars Empire At War
+  Kerbal space program
+  XCOM 2

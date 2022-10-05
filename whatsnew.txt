@@ -1,13 +1,3 @@
-Version 1.8.3
-[*] Fixed a rare crash.
-[*] Added support for more games using the Helcer download provider.
- 
-Helcer supported games:
-
-  Cities Skylines
-  Darkest Dungeon
-  Goat Simulator
-  Wallpaper Engine
-  Starwars Empire At War
-  Kerbal space program
-  XCOM 2
+Version 1.8.4
+[*] Fixed the cancel button staying, when the download had completed.
+[*] Renamed the Helcer download provider to Nether.

@@ -1,3 +1,7 @@
-Version 1.8.4
-[*] Fixed the cancel button staying, when the download had completed.
-[*] Renamed the Helcer download provider to Nether.
+Version 1.8.5
+[*] Fixed a bug that kept changing the download provider to SteamWebAPI
+when selecting the Nether API.
+[*] When clicking the "Download providers:" text while having Nether selected,
+it will display the supported games and update them dynamically.
+[*] When downloading using the Nether API, it will check if the game is supported or not
+and will inform you as opposed to the previous version where it did nothing.

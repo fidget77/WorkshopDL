@@ -1,2 +1,2 @@
-Version 1.8.6
-[*] Fixed a bug with "Remember Last Used Game" option.
+Version 1.8.7
+[*] Fixed an issue when downloading mods imported from a .txt file.

@@ -103,12 +103,12 @@ Other games might work too, but it is not guaranteed.
 
 Q: Is this safe to use?  
 >  A: Yes. It is completely safe! It is impossible to get banned for using this tool.
->If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/bf63db9bbfd2d281d7ba20fa2732b9e4426c0f91dd785ff440eff37f445632cf) of the latest version. (Note there might be some false-positives, due to the addition of the new gmod unpacker)
+>If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/0f68b97b4d6da467259af6e85a9941440561f44d6749ad9adf98a9a6e9b94577) of the latest version. (Note there might be some false-positives, due to the addition of the new gmod unpacker)
 </details>
 
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
-[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.8.5%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/bf63db9bbfd2d281d7ba20fa2732b9e4426c0f91dd785ff440eff37f445632cf)
+[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.8.6%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/0f68b97b4d6da467259af6e85a9941440561f44d6749ad9adf98a9a6e9b94577)
 
 # About the Source Code
 You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.7 - BETA)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.

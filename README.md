@@ -114,8 +114,16 @@ Q: Is this safe to use?
 You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.7 - BETA)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.
 
 # Donate
-If you want, you can donate Steam keys or wallet codes to my email.  
-vovologames[at]proton[dot]me  
+You can donate with crypto at the following addresses:
+
+(Bitcoin)
+bc1qy5ta89k07vqcxuksrcjygckmyynrqm4zvhnw9j
+
+(Etherum)
+0xeB9d51127BcF95FfC1E40c296F129C67000CAC24
+
+Or with Paysafe codes (under $10) on my email :
+vovologames (at) proton (dot) me  
 
 #
 ###### <em>WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.</em>

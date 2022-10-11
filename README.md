@@ -103,7 +103,7 @@ Other games might work too, but it is not guaranteed.
 
 Q: Is this safe to use?  
 >  A: Yes. It is completely safe! It is impossible to get banned for using this tool.
->If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/b0ec4512876b787608655b2c492efb76d7bb82afa88ff09b38077d0fa8ac04e2) of the latest version. (Note there might be some false-positives, due to the addition of the new gmod unpacker)
+>If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/b0ec4512876b787608655b2c492efb76d7bb82afa88ff09b38077d0fa8ac04e2) of the latest version.
 </details>
 
 # Miscellaneous

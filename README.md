@@ -110,6 +110,8 @@ Q: Is this safe to use?
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
 [![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.8.8%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/b0ec4512876b787608655b2c492efb76d7bb82afa88ff09b38077d0fa8ac04e2)
 
+The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/)
+
 # About the Source Code
 You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.7 - BETA)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.
 

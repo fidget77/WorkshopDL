@@ -1,5 +1,2 @@
-Version 1.8.8
-[*] Fixed the cancel button getting stuck in rare occasions.
-[*] Fixed an issue when the user was using accessibility settings
-    or a High contrast mode, making every text unreadable.
-[*] Minor improvements.
+Version 1.8.7
+[*] Fixed an issue when downloading mods imported from a .txt file.

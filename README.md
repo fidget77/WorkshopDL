@@ -6,7 +6,7 @@ I've decided to make my own standalone workshop downloader with a GUI to make th
 
 ### Screenshots
 <details closed>
-<summary>Click to view (Windows 10 Theme)</summary>
+<summary>Click to view (Windows)</summary>
 <br>
 
 [![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1.png)](https://github.com/VovoloGames/WorkshopDL/releases)
@@ -16,16 +16,6 @@ I've decided to make my own standalone workshop downloader with a GUI to make th
 [![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot3.png)](https://github.com/VovoloGames/WorkshopDL/releases)
 </details>
 <details closed>
-<summary>Click to view (Windows 11 Theme)</summary>
-<br>
-
-[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1_win11.png)](https://github.com/VovoloGames/WorkshopDL/releases)
-
-[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot2_win11.png)](https://github.com/VovoloGames/WorkshopDL/releases)
-
-[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot3_win11.png)](https://github.com/VovoloGames/WorkshopDL/releases)
-</details>
-<details>
 <summary>Click to view (Ubuntu with Wine)</summary>
 <br>
 

@@ -1,6 +1,6 @@
 ---
 name: Game request
-about: Request a new game.
+about: Request a new game
 title: 'Add support for X'
 labels: Game Request
 assignees: ''

@@ -5,25 +5,14 @@ I've decided to make my own standalone workshop downloader with a GUI to make th
 # WorkshopDL [![Version](https://img.shields.io/github/v/tag/VovoloGames/WorkshopDL?label=version&style=flat-square&color=black)](https://github.com/VovoloGames/WorkshopDL/releases) [![GitHub all releases](https://img.shields.io/github/downloads/VovoloGames/WorkshopDL/total?style=flat-square)](https://github.com/VovoloGames/WorkshopDL/releases)
 
 ### Screenshots
-<details closed>
-<summary>Click to view (Windows)</summary>
-<br>
-
 [![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1.png)](https://github.com/VovoloGames/WorkshopDL/releases)
+<details closed>
+<summary>Click to view more screenshots</summary>
+<br>
 
 [![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot2.png)](https://github.com/VovoloGames/WorkshopDL/releases)
 
 [![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot3.png)](https://github.com/VovoloGames/WorkshopDL/releases)
-</details>
-<details closed>
-<summary>Click to view (Ubuntu with Wine)</summary>
-<br>
-
-[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1_ubuntu.png)](https://github.com/VovoloGames/WorkshopDL/releases)
-
-[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot2_ubuntu.png)](https://github.com/VovoloGames/WorkshopDL/releases)
-
-[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot3_ubuntu.png)](https://github.com/VovoloGames/WorkshopDL/releases)
 </details>
 
 # What is WorkshopDL?

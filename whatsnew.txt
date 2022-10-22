@@ -1,2 +1,3 @@
-Version 1.8.9
-[*] Minor improvements and fixes.
+Version 1.9.0
+[*] When importing mods from a .txt file it will now skip empty lines.
+[*] When saving the mod list as a text file, it will save the mod IDs as URLs.

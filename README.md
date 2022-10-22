@@ -103,8 +103,5 @@ bc1qy5ta89k07vqcxuksrcjygckmyynrqm4zvhnw9j
 (Etherum)
 0xeB9d51127BcF95FfC1E40c296F129C67000CAC24
 
-Or with Paysafe codes (under $10) on my email :
-vovologames (at) proton (dot) me  
-
 #
 ###### <em>WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.</em>

@@ -1,4 +1,4 @@
-! https://steamdb.info
+! https://steamdb.info (https://steamdb.info/sub/17906/apps/)
 steamdb.info##.global-announcement
 steamdb.info##.scope-package
 steamdb.info##.header

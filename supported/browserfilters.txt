@@ -1,0 +1,18 @@
+! https://steamdb.info
+steamdb.info##.global-announcement
+steamdb.info##.scope-package
+steamdb.info##.header
+steamdb.info##.tabnav
+steamdb.info###steamdb-org
+steamdb.info##.hide-small.welding-torch
+steamdb.info##th.sort-header:nth-of-type(2)
+steamdb.info##td:nth-of-type(2)
+steamdb.info##th.sort-header:nth-of-type(4)
+steamdb.info##td:nth-of-type(4)
+steamdb.info##th.sort-header:nth-of-type(5)
+steamdb.info##td:nth-of-type(5)
+steamdb.info##tr.app > .timeago
+steamdb.info###apps > .table-responsive > .table-sortable.table-hover.table-bordered.table > thead > tr > .sort-header.sort-default
+steamdb.info###apps > h2
+steamdb.info##th.sort-header:nth-of-type(1)
+steamdb.info##td:nth-of-type(1)

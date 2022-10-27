@@ -1,3 +1,5 @@
-Version 1.9.0
-[*] When importing mods from a .txt file it will now skip empty lines.
-[*] When saving the mod list as a text file, it will save the mod IDs as URLs.
+Version 1.9.1
+[*] When setting up a Steam account, if you leave the password entry empty,
+you will be asked to enter it in Valve's SteamCMD.
+(This is useful if you don't want your password to be stored)
+[*] Upgraded to Clickteam Fusion 2.5 (Build R294.10 - BETA)

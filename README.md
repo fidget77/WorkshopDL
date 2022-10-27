@@ -92,7 +92,7 @@ Q: Is this safe to use?
 The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/)
 
 # About the Source Code
-You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.9 - BETA)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.
+You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.10 - BETA)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.
 
 # Donate
 You can donate with crypto at the following addresses:

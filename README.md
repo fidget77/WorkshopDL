@@ -87,7 +87,7 @@ Q: Is this safe to use?
 
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
-[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.9.1%20Clean%20(False%20Positive)-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/671ed052ff62a405506dabd160a32e709ada168725a81713d804afa50ff0e634)
+[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.9.1%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/671ed052ff62a405506dabd160a32e709ada168725a81713d804afa50ff0e634)
 
 The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/)
 

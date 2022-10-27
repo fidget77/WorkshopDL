@@ -1,5 +1,4 @@
 Version 1.9.2
 [*] Fixed a minor bug introduced in v1.9.1
-[*] When setting up a Steam account, if you leave the password entry empty, you will be asked to enter it in Valve's SteamCMD.
-(This is useful if you don't want your password to be stored)
+[*] When setting up a Steam account, if you leave the password entry empty, you will be asked to enter it in Valve's SteamCMD. (This is useful if you don't want your password to be stored)
 [*] Upgraded to Clickteam Fusion 2.5 (Build R294.10 - BETA)

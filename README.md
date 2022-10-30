@@ -94,14 +94,5 @@ The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue
 # About the Source Code
 You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.10 - BETA)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.
 
-# Donate
-You can donate with crypto at the following addresses:
-
-(Bitcoin)
-bc1qy5ta89k07vqcxuksrcjygckmyynrqm4zvhnw9j
-
-(Etherum)
-0xeB9d51127BcF95FfC1E40c296F129C67000CAC24
-
 #
 ###### <em>WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.</em>

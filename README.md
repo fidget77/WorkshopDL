@@ -91,6 +91,10 @@ Q: Is this safe to use?
 
 The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/)
 
+## Third Party Download Providers used in WorkshopDL
+[GGNetwork](https://ggntw.com/steam)  
+[Nether API](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Supported-API-games)
+
 # About the Source Code
 You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.10 - BETA)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.
 

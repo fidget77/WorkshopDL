@@ -92,7 +92,7 @@ Q: Is this safe to use?
 The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/)
 
 ## Third Party Download Providers used in WorkshopDL
-[GGNetwork](https://ggntw.com/steam)  
+[GGNetwork](https://ggntw.com/steam) <em>(If some mods don't download through WorkshopDL, try using their website)</em>  
 [Nether API](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Supported-API-games)
 
 # About the Source Code

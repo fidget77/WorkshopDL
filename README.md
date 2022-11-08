@@ -48,9 +48,7 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 | Garry's Mod Unpacker | ✔  | ❌  | ❌  | ❌ | 
 | Support for Steam accounts | ✔  | ❌  | ✔  | ✔ | 
 | Automatic support for 1GB+ mods | ✔  | ❌  | ❌  | ❌ | 
-| Automatic validation of corrupted mod files | ✔  | ❌  | ❌  | ❌ | 
 | Automaticly downloads and extracts SteamCMD | ✔  | Pre-packaged  | Pre-packaged  | ❌ | 
-| URL Auto-Queuing| ✔  | ❌  | ❌  | ❌ | 
 | URL Auto-Detection from clipboard | ✔  | ❌  | ❌  | ❌ | 
 | Automatic disposal of steamcmd's temporary files (They can exceed 20gb in size, if never cleared) | ✔  | ❌  | ❌  | ❌ |
 

@@ -36,6 +36,23 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 
 <em>Note: For some games, you might need to manually add the file extension to the mod.</em>
 
+## WorkshopDL in comparison with similar downloaders
+| Features  |  [WorkshopDL](https://github.com/VovoloGames/WorkshopDL) |  [Community Workshop](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) |  [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) |  [SCMD Workshop Downloader 2](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2) |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Support for SteamCMD | ✔  | ✔  | ✔  | ✔  | 
+| Support for SteamWebAPI  | ✔  | ❌  | ❌  | ❌ | 
+| Support for Nether API  | ✔  | ❌  | ✔  | ❌ | 
+| Support for GGNetwork API  | Cached mods  | ✔  | ❌  | ❌ | 
+| Mod Installer | ✔  | ❌  | ❌  | ❌ | 
+| Workshop Collections | ✔  | ❌  | ✔  | ✔ | 
+| Garry's Mod Unpacker | ✔  | ❌  | ❌  | ❌ | 
+| Support for Steam accounts | ✔  | ❌  | ✔  | ✔ | 
+| Automatic validation of corrupted mod files | ✔  | ❌  | ❌  | ❌ | 
+| Automaticly downloads and extracts SteamCMD | ✔  | Pre-packaged  | Pre-packaged  | ❌ | 
+| URL Auto-Queuing| ✔  | ❌  | ❌  | ❌ | 
+| URL Auto-Detection from clipboard | ✔  | ❌  | ❌  | ❌ | 
+| Automatic disposal of steamcmd's temporary files (They can exceed 20gb in size, if never cleared) | ✔  | ❌  | ❌  | ❌ |
+
 ## How To Use
 <details closed>
 <summary>Click to read</summary>

@@ -45,11 +45,10 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 | Support for GGNetwork API  | Cached mods  | ✔  | ❌  | ❌ | 
 | Mod Installer | ✔  | ~  | ~  | ~ | 
 | Workshop Collections | ✔  | ❌  | ✔  | ✔ | 
-| Garry's Mod Unpacker | ✔  | ❌  | ❌  | ❌ | 
 | Support for Steam accounts | ✔  | ❌  | ✔  | ✔ | 
-| Automatic support for 1GB+ mods (Through SteamCMD) | ✔  | ❌  | ❌  | ❌ | 
-| Automaticly downloads and extracts SteamCMD | ✔  | Pre-packaged  | Pre-packaged  | ❌ | 
 | URL Auto-Detection from clipboard | ✔  | ❌  | ❌  | ❌ | 
+| Automatic support for 1GB+ mods (Through SteamCMD) | ✔  | ❌  | ❌  | ❌ | 
+| Automaticly downloads and extracts SteamCMD | ✔  | ✔ (Pre-packaged)  | ✔ (Pre-packaged)  | ❌ | 
 | Automatic disposal of steamcmd's temporary files (They can exceed 20gb in size, if never cleared) | ✔  | ❌  | ❌  | ❌ |
 
 ## How To Use

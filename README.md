@@ -36,6 +36,21 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 
 <em>Note: For some games, you might need to manually add the file extension to the mod.</em>
 
+## WorkshopDL in comparison with similar downloaders
+| Features  |  [WorkshopDL](https://github.com/VovoloGames/WorkshopDL) |  [Community Workshop](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) |  [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) |  [SCMD Workshop Downloader 2](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2) |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Support for SteamCMD | ✔  | ✔  | ✔  | ✔  | 
+| Support for SteamWebAPI  | ✔  | ❌  | ❌  | ❌ | 
+| Support for Nether API  | ✔  | ❌  | ✔  | ❌ | 
+| Support for GGNetwork API  | Cached mods  | ✔  | ❌  | ❌ | 
+| Mod Installer | ✔  | ~  | ~  | ~ | 
+| Workshop Collections | ✔  | ❌  | ✔  | ✔ | 
+| Support for Steam accounts | ✔  | ❌  | ✔  | ✔ | 
+| URL Auto-Detection from clipboard | ✔  | ❌  | ❌  | ❌ | 
+| Automatic support for 1GB+ mods (Through SteamCMD) | ✔  | ❌  | ❌  | ❌ | 
+| Automaticly downloads and extracts SteamCMD | ✔  | ✔ (Pre-packaged)  | ✔ (Pre-packaged)  | ❌ | 
+| Automatic disposal of steamcmd's temporary files (They can exceed 20gb in size, if never cleared) | ✔  | ❌  | ❌  | ❌ |
+
 ## How To Use
 <details closed>
 <summary>Click to read</summary>
@@ -82,26 +97,21 @@ Other games might work too, but it is not guaranteed.
 
 Q: Is this safe to use?  
 >  A: Yes. It is completely safe! It is impossible to get banned for using this tool.
->If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/5c0a20866b870590f333f51724c0cbe4535742be4af1f97be50b731f3cbc8cad) of the latest version.
+>If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/0a2b9d8635b6c55223020eb94901d916c76b0acd7ebf47952812f872ad60bdfa) of the latest version.
 </details>
 
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
-[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.9.2%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/5c0a20866b870590f333f51724c0cbe4535742be4af1f97be50b731f3cbc8cad)
+[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.9.3%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/0a2b9d8635b6c55223020eb94901d916c76b0acd7ebf47952812f872ad60bdfa)
 
 The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/)
 
+## Third Party Download Providers used in WorkshopDL
+[GGNetwork](https://ggntw.com/steam) <em>(If some mods don't download through WorkshopDL, try using their website)</em>  
+[Nether API](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Supported-API-games)
+
 # About the Source Code
 You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.10 - BETA)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.
-
-# Donate
-You can donate with crypto at the following addresses:
-
-(Bitcoin)
-bc1qy5ta89k07vqcxuksrcjygckmyynrqm4zvhnw9j
-
-(Etherum)
-0xeB9d51127BcF95FfC1E40c296F129C67000CAC24
 
 #
 ###### <em>WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.</em>

@@ -17,7 +17,7 @@ I've decided to make my own standalone workshop downloader with a GUI to make th
 
 ----
 
-#### [Tutorial Video on how to use WorkshopDL (Made by Assassinator162)](https://www.youtube.com/watch?v=lB3nz7k5Ao4)
+#### [Youtube tutorial on how to use WorkshopDL (Made by Assassinator162)](https://www.youtube.com/watch?v=lB3nz7k5Ao4)
 ----
 
 # What is WorkshopDL?

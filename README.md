@@ -97,12 +97,12 @@ Other games might work too, but it is not guaranteed.
 
 Q: Is this safe to use?  
 >  A: Yes. It is completely safe! It is impossible to get banned for using this tool.
->If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/54f769290b33b112edf95cf4523b5455918b41998e18ff867e61720a973ebb4c) of the latest version.
+>If you mean virus-wise, it is clean and open-source! Here is a [VirusTotal scan](https://www.virustotal.com/gui/file/ed05618d20d4198da691a63814d232f8467fe9cd46e242947f98bad4b2465ac0) of the latest version.
 </details>
 
 # Miscellaneous
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
-[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.9.4%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/54f769290b33b112edf95cf4523b5455918b41998e18ff867e61720a973ebb4c)
+[![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.9.5%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/ed05618d20d4198da691a63814d232f8467fe9cd46e242947f98bad4b2465ac0)
 
 The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/)
 

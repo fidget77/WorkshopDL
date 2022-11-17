@@ -1,2 +1,3 @@
-Version 1.9.4
-[*] Fixed the cancel button getting stuck the first time you download through SteamWebAPI.
+Version 1.9.5
+[*] Improved the startup loading time by a lot.
+[*] Removed superfluous code.

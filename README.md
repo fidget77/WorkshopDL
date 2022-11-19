@@ -109,7 +109,8 @@ Q: Is this safe to use?
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
 [![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.9.5%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/ed05618d20d4198da691a63814d232f8467fe9cd46e242947f98bad4b2465ac0)
 
-The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/)
+The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/)  
+My email: vovologames(at)proton(dot)me
 
 ## Third Party Download Providers used in WorkshopDL
 [GGNetwork](https://ggntw.com/steam) <em>(If some mods don't download through WorkshopDL, try using their website)</em>  

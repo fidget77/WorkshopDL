@@ -117,7 +117,7 @@ My email: vovologames (at) proton (dot) me
 [Nether API](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Supported-API-games)
 
 # About the Source Code
-You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.X - BETA)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.  
+You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.X)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.  
 <em>Previous version will work too, but they might mess the layer order.</em>
 
 #

@@ -15,3 +15,6 @@ Example: https://store.steampowered.com/app/4000/Garrys_Mod/
 
 **Additional context**
 Add any other context or screenshots about the game request here.
+
+#
+##### Note: If you don't add the corresponding label, your issue will be deleted.

@@ -1,3 +1,2 @@
-Version 1.9.6
-[*] Fixed a bug that prevented re-downloading mods.
-[*] Minor changes to how mod lists download.
+Version 1.9.7
+[*] Fixed the SteamCMD console window re-opening over and over.

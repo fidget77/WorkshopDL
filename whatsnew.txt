@@ -1,3 +1,3 @@
 Version 1.9.7
 - [*] Fixed the SteamCMD console window re-opening over and over.
-- Added a batch file to exit SteamCMD at any time.
+- [*] Added a batch file to exit SteamCMD at any time.

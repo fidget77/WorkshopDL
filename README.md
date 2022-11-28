@@ -1,3 +1,9 @@
+THIS IS FOR PEOPLE WHO PREFER INSTALLERS 
+
+THE files are ARE COMPILED USING INSTALL FORGE
+
+let me know if you face any problems with the installers
+
 [![Banner](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/banner_opaque_red_download.png)](https://github.com/VovoloGames/WorkshopDL/releases/download/v1.9.7/WorkshopDL.v1.9.7.zip)
 
 <em>Since most of the popular workshop downloading websites have shutdown or instruct users to download & use SteamCMD, a command-line program,

@@ -1,6 +1,6 @@
 THIS IS FOR PEOPLE WHO PREFER INSTALLERS 
 
-THE files are ARE COMPILED USING INSTALL FORGE
+THE files are COMPILED USING INSTALL FORGE
 
 let me know if you face any problems with the installers
 
@@ -23,11 +23,15 @@ I've decided to make my own standalone workshop downloader with a GUI to make th
 
 ----
 
-#### [Youtube tutorial on how to use WorkshopDL (Made by Assassinator162)](https://youtu.be/lB3nz7k5Ao4?t=16)
+#### [YouTube tutorial on how to use WorkshopDL (Made by Assassinator162)](https://youtu.be/lB3nz7k5Ao4?t=16)
 ----
 
 # What is WorkshopDL?
-It is a Steam workshop downloader. Do you own a game on a different platform than Steam (Like GOG or the Epic Games Store) and you always wanted to use mods from the Steam workshop? WorkshopDL allows you to download mods from the Steam workshop for free! It currently supports more than 900+ games!
+It is a Steam workshop downloader.
+Do you own a game on a different platform than Steam (Like GOG or the Epic Games Store),
+and you always wanted to use mods from the Steam workshop?
+WorkshopDL allows you to download mods from the Steam workshop for free!
+It currently supports more than 900+ games!
 
 ## Features
 - Very easy to use.
@@ -43,9 +47,9 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 - Auto-URL detection and Auto-Queueing.
 - The program is self-contained. No setups, no bloat.
 - It offers multiple ways to download mods. SteamCMD, SteamWebAPI... and more to come!
-- Automatically clears leftover files from canceled downloads and corrupted files, that occupy free space.
+- Automatically clears leftover files from canceled downloads and corrupted files that occupy free space.
 
-<em>Note: For some games, you might need to manually add the file extension to the mod.</em>
+<em> Note: For some games, you might need to manually add the file extension to the mod.</em>
 
 ## WorkshopDL in comparison with similar downloaders
 | Features                                                                                          | [WorkshopDL](https://github.com/VovoloGames/WorkshopDL) | [Community Workshop](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) | [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) | [SCMD Workshop Downloader 2](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2) |
@@ -59,7 +63,7 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 | Support for Steam accounts                                                                        | ✔                                                       | ❌                                                                                      | ✔                                                                                           | ✔                                                                                       | 
 | URL Auto-Detection from clipboard                                                                 | ✔                                                       | ❌                                                                                      | ❌                                                                                           | ❌                                                                                       | 
 | Automatic support for 1GB+ mods (Through SteamCMD)                                                | ✔                                                       | ❌                                                                                      | ❌                                                                                           | ❌                                                                                       | 
-| Automaticly downloads and extracts SteamCMD                                                       | ✔                                                       | ✔ (Pre-packaged)                                                                       | ✔ (Pre-packaged)                                                                            | ❌                                                                                       | 
+| Automatically downloads and extracts SteamCMD                                                     | ✔                                                       | ✔ (Pre-packaged)                                                                       | ✔ (Pre-packaged)                                                                            | ❌                                                                                       | 
 | Automatic disposal of steamcmd's temporary files (They can exceed 20gb in size, if never cleared) | ✔                                                       | ❌                                                                                      | ❌                                                                                           | ❌                                                                                       |
 
 ## How To Use
@@ -81,12 +85,14 @@ For example, here is a workshop homepage https://steamcommunity.com/app/4000/wor
 (Note: The first time it might take longer to download cause SteamCMD is downloading some necessary files.
 This will *only* happen on your very first launch.)
 
-5. After the download is completed the folder containing the mod will open on a separate window.
+5. After the download is completed, the folder containing the mod will open in a separate window.
 6. Installation of mods differs from game to game.
 
 Note 1: Games that aren't listed here https://steamdb.info/sub/17906/apps/ are not guaranteed to work.
 
-Note 2: If a game does not work, try to download the mods using the AppID (Homepage) of it's dedicated server. You can also try downloading with SteamWebAPI. It works with a lot of SteamCMD unsupported games, usually single-player ones.
+Note 2: If a game does not work, try to download the mods using the AppID (Homepage) of its dedicated server.
+You can also try downloading with SteamWebAPI.
+It works with a lot of SteamCMD unsupported games, usually single-player ones.
 </details>
 
 ## FAQ
@@ -95,7 +101,7 @@ Note 2: If a game does not work, try to download the mods using the AppID (Homep
 <br>
 
 Q: Why would I need this?  
->  A: If you own a game on a different platform like GOG or the Epic Games store, you can not download mods for the game, as the majority of mods are locked inside Steam's workshop. So instead of buying the game a second time to access the mods, you can simply use WorkshopDL.
+>  A: If you own a game on a different platform like GOG or the Epic Games store, you cannot download mods for the game, as the majority of mods are locked inside Steam's workshop. So instead of buying the game a second time to access the mods, you can simply use WorkshopDL.
 
 Q: How does this work?  
 >  A: It pretty much is a GUI that launches Valve's SteamCMD commandline tool with the needed parameters to download the workshop item you want.  
@@ -115,16 +121,16 @@ Q: Is this safe to use?
 [![rin forum](https://img.shields.io/badge/Forum%20Post-cs.rin.ru-darkgray?style=flat-square)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583)
 [![Virus Total](https://img.shields.io/badge/Virus%20Total%20Scan-v1.9.7%20Clean-brightgreen?style=flat-square)](https://www.virustotal.com/gui/file/b37bde0316d26295d5628cfc3830847499f3a28fd1c8e22e00fc89d3a05019bf)
 
-The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/)  
+The best direct downloads site for Workshop mods: [(smods.ru)](https://catalogue.smods.ru/) 
 My email: vovologames (at) proton (dot) me
 
 ## Third Party Download Providers used in WorkshopDL
-[GGNetwork](https://ggntw.com/steam) <em>(If some mods don't download through WorkshopDL, try using their website)</em>  
+[GGNetwork](https://ggntw.com/steam) <em>(If some mods don't download through WorkshopDL, try using their website)</em> 
 [Nether API](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Supported-API-games)
 
 # About the Source Code
 You need a legitimate copy of [Clickteam Fusion 2.5 (Build R294.X)](https://www.clickteam.com/clickteam-fusion-2-5) to open the .mfa file.  
-<em>Previous version will work too, but they might mess the layer order.</em>
+<Em>Previous version will work too, but they might mess the layer order.</em>
 
 #
 ###### <em>WorkshopDL is not affiliated with Valve Corporation or Steam. WorkshopDL is not affiliated with other downloading software.</em>

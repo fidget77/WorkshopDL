@@ -4,21 +4,21 @@ THE files are ARE COMPILED USING INSTALL FORGE
 
 let me know if you face any problems with the installers
 
-[![Banner](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/banner_opaque_red_download.png)](https://github.com/VovoloGames/WorkshopDL/releases/download/v1.9.7/WorkshopDL.v1.9.7.zip)
+[![Banner](https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/1.9.7-alpha.1/screenshots/banner_opaque_red_download.png)](https://github.com/VovoloGames/WorkshopDL/releases/download/v1.9.7/WorkshopDL.v1.9.7.zip)
 
 <em>Since most of the popular workshop downloading websites have shutdown or instruct users to download & use SteamCMD, a command-line program,
 I've decided to make my own standalone workshop downloader with a GUI to make things easier.</em>
 # WorkshopDL [![Version](https://img.shields.io/github/v/tag/VovoloGames/WorkshopDL?label=version&style=flat-square&color=black)](https://github.com/VovoloGames/WorkshopDL/releases) [![GitHub all releases](https://img.shields.io/github/downloads/VovoloGames/WorkshopDL/total?style=flat-square)](https://github.com/VovoloGames/WorkshopDL/releases)
 
 ### Screenshots
-[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot1.png)](https://github.com/VovoloGames/WorkshopDL/releases)
+[![Screenshot](https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/screenshots/screenshot1.png)](https://github.com/VovoloGames/WorkshopDL/releases)
 <details closed>
 <summary>Click to view more screenshots</summary>
 <br>
 
-[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot2.png)](https://github.com/VovoloGames/WorkshopDL/releases)
+[![Screenshot](https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/screenshots/screenshot2.png)](https://github.com/VovoloGames/WorkshopDL/releases)
 
-[![Screenshot](https://raw.githubusercontent.com/VovoloGames/WorkshopDL/main/screenshots/screenshot3.png)](https://github.com/VovoloGames/WorkshopDL/releases)
+[![Screenshot](https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/screenshots/screenshot3.png)](https://github.com/imwaitingnow/WorkshopDL-installer/releases)
 </details>
 
 ----
@@ -48,19 +48,19 @@ It is a Steam workshop downloader. Do you own a game on a different platform tha
 <em>Note: For some games, you might need to manually add the file extension to the mod.</em>
 
 ## WorkshopDL in comparison with similar downloaders
-| Features  |  [WorkshopDL](https://github.com/VovoloGames/WorkshopDL) |  [Community Workshop](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) |  [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) |  [SCMD Workshop Downloader 2](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2) |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Support for SteamCMD | ✔  | ✔  | ✔  | ✔  | 
-| Support for SteamWebAPI  | ✔  | ❌  | ❌  | ❌ | 
-| Support for Nether API  | ✔  | ❌  | ✔  | ❌ | 
-| Support for GGNetwork API  | Cached mods  | ✔  | ❌  | ❌ | 
-| Mod Installer | ✔  | ~  | ~  | ~ | 
-| Workshop Collections | ✔  | ❌  | ✔  | ✔ | 
-| Support for Steam accounts | ✔  | ❌  | ✔  | ✔ | 
-| URL Auto-Detection from clipboard | ✔  | ❌  | ❌  | ❌ | 
-| Automatic support for 1GB+ mods (Through SteamCMD) | ✔  | ❌  | ❌  | ❌ | 
-| Automaticly downloads and extracts SteamCMD | ✔  | ✔ (Pre-packaged)  | ✔ (Pre-packaged)  | ❌ | 
-| Automatic disposal of steamcmd's temporary files (They can exceed 20gb in size, if never cleared) | ✔  | ❌  | ❌  | ❌ |
+| Features                                                                                          | [WorkshopDL](https://github.com/VovoloGames/WorkshopDL) | [Community Workshop](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) | [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) | [SCMD Workshop Downloader 2](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2) |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Support for SteamCMD                                                                              | ✔                                                       | ✔                                                                                      | ✔                                                                                           | ✔                                                                                       | 
+| Support for SteamWebAPI                                                                           | ✔                                                       | ❌                                                                                      | ❌                                                                                           | ❌                                                                                       | 
+| Support for Nether API                                                                            | ✔                                                       | ❌                                                                                      | ✔                                                                                           | ❌                                                                                       | 
+| Support for GGNetwork API                                                                         | Cached mods                                             | ✔                                                                                      | ❌                                                                                           | ❌                                                                                       | 
+| Mod Installer                                                                                     | ✔                                                       | ~                                                                                      | ~                                                                                           | ~                                                                                       | 
+| Workshop Collections                                                                              | ✔                                                       | ❌                                                                                      | ✔                                                                                           | ✔                                                                                       | 
+| Support for Steam accounts                                                                        | ✔                                                       | ❌                                                                                      | ✔                                                                                           | ✔                                                                                       | 
+| URL Auto-Detection from clipboard                                                                 | ✔                                                       | ❌                                                                                      | ❌                                                                                           | ❌                                                                                       | 
+| Automatic support for 1GB+ mods (Through SteamCMD)                                                | ✔                                                       | ❌                                                                                      | ❌                                                                                           | ❌                                                                                       | 
+| Automaticly downloads and extracts SteamCMD                                                       | ✔                                                       | ✔ (Pre-packaged)                                                                       | ✔ (Pre-packaged)                                                                            | ❌                                                                                       | 
+| Automatic disposal of steamcmd's temporary files (They can exceed 20gb in size, if never cleared) | ✔                                                       | ❌                                                                                      | ❌                                                                                           | ❌                                                                                       |
 
 ## How To Use
 <details closed>

@@ -1,3 +1,5 @@
+
+
 THIS IS FOR PEOPLE WHO PREFER INSTALLERS 
 
 THE files are COMPILED USING INSTALL FORGE
@@ -8,7 +10,8 @@ let me know if you face any problems with the installers
 
 <em>Since most of the popular workshop downloading websites have shutdown or instruct users to download & use SteamCMD, a command-line program,
 I've decided to make my own standalone workshop downloader with a GUI to make things easier.</em>
-# WorkshopDL [![Version](https://img.shields.io/github/v/tag/VovoloGames/WorkshopDL?label=version&style=flat-square&color=black)](https://github.com/VovoloGames/WorkshopDL/releases) [![GitHub all releases](https://img.shields.io/github/downloads/VovoloGames/WorkshopDL/total?style=flat-square)](https://github.com/VovoloGames/WorkshopDL/releases)
+# WorkshopDL [![Version](https://img.shields.io/badge/version-1.9.7-blue?style=flat-square)](https://github.com/imwaitingnow/WorkshopDL-installer/releases)
+
 
 ### Screenshots
 [![Screenshot](https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/screenshots/screenshot1.png)](https://github.com/VovoloGames/WorkshopDL/releases)

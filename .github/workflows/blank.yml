@@ -1,0 +1,52 @@
+name: Increment Number
+
+on:
+  push:
+    paths:
+      - 'supported/appids'
+      - 'supported/games'
+
+jobs:
+  increment_number:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Read current number
+      id: read_number
+      run: |
+        current_number=$(curl -s https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/supported/list_version)
+        echo "::set-output name=current_number::$current_number"
+
+    - name: Check if trigger files were modified
+      id: check_triggers
+      run: |
+        trigger_files=("supported/appids" "supported/games")
+        changed=false
+        for file in "${trigger_files[@]}"; do
+          if [[ -n $(git diff --name-only origin/main...HEAD "$file") ]]; then
+            changed=true
+            break
+          fi
+        done
+        echo "::set-output name=trigger_changed::$changed"
+
+    - name: Increment number if trigger files changed
+      if: steps.check_triggers.outputs.trigger_changed == 'true'
+      id: increment_number
+      run: |
+        current_number=${{ steps.read_number.outputs.current_number }}
+        new_number=$((current_number + 1))
+        echo $new_number > list_version
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add list_version
+        git commit -m "Increment number"
+        git push
+
+    - name: Display new number
+      run: |
+        new_number=$(curl -s https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/supported/list_version)
+        echo "New number: $new_number"

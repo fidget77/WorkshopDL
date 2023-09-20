@@ -17,4 +17,4 @@ jobs:
       - name: Run Update Script
         run: |
           chmod +x update_version.sh
-          ./update_version.sh
+          GITHUB_SHA="$GITHUB_SHA" ./update_version.sh

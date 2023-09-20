@@ -30,11 +30,20 @@ jobs:
 
           echo "::set-output name=trigger_changed::$changed"
 
+      - name: Create file if it doesn't exist
+        run: |
+          if [ ! -f "supported/list_version" ]; then
+            echo "1" > supported/list_version
+            git add supported/list_version
+            git commit -m "Create list_version file"
+            git push
+          fi
+
       - name: Update Number
         if: steps.check-changes.outputs.trigger_changed == 'true'
         run: |
           # Increment the number (you can modify this logic as needed)
-          current_number=$(curl -s https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/supported/list_version)
+          current_number=$(cat supported/list_version)
           new_number=$((current_number + 1))
 
           # Update the file with the new number

@@ -18,7 +18,8 @@ jobs:
       id: read_number
       run: |
         current_number=$(curl -s https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/supported/list_version)
-        echo "::set-output name=current_number::$current_number"
+        echo "$current_number" > list_version.txt
+        echo "::set-env name=NEW_NUMBER::$current_number"
 
     - name: Check if trigger files were modified
       id: check_triggers
@@ -37,16 +38,16 @@ jobs:
       if: steps.check_triggers.outputs.trigger_changed == 'true'
       id: increment_number
       run: |
-        current_number=${{ steps.read_number.outputs.current_number }}
+        current_number=${{ env.NEW_NUMBER }}
         new_number=$((current_number + 1))
-        echo $new_number > list_version
+        echo $new_number > list_version.txt
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-        git add list_version
+        git add list_version.txt
         git commit -m "Increment number"
         git push
 
     - name: Display new number
       run: |
-        new_number=$(curl -s https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/supported/list_version)
+        new_number=$(cat list_version.txt)
         echo "New number: $new_number"

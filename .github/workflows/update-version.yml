@@ -1,0 +1,20 @@
+name: Update Version on File Changes
+
+on:
+  push:
+    paths:
+      - 'supported/games'
+      - 'supported/appids'
+
+jobs:
+  update-version:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check Out Repository
+        uses: actions/checkout@v2
+
+      - name: Run Update Script
+        run: |
+          chmod +x update_version.sh
+          ./update_version.sh

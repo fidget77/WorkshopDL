@@ -3,7 +3,10 @@
 # Create the files if they don't exist
 touch supported/games
 touch supported/appids
-touch supported/list_version
+
+if [ ! -e supported/list_version ]; then
+  echo 1 > supported/list_version
+fi
 
 if [[ $(git diff --name-only $GITHUB_SHA..HEAD supported/games supported/appids) ]]; then
   current_version=$(<supported/list_version)

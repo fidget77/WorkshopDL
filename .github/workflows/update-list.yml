@@ -17,19 +17,19 @@ jobs:
     - name: Update Version Number
       run: |
         # Initialize the version number if it doesn't exist
-        if [ ! -f list_version ]; then
-          echo '0' > list_version
+        if [ ! -f supported/list_version ]; then
+          echo '0' > supported/list_version
         fi
 
         # Increment the version number for each change
-        version=$(cat list_version)
+        version=$(cat supported/list_version)
         version=$((version + 1))
-        echo "$version" > list_version
+        echo "$version" > supported/list_version
 
         # Commit and push the changes
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-        git add list_version
+        git add supported/list_version
         git commit -m "Increment version to $version"
         git push
       working-directory: ${{ github.workspace }}

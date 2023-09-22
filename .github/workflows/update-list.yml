@@ -1,0 +1,31 @@
+name: Update List on File Changes
+
+on:
+  push:
+    paths:
+      - 'supported/appids/**'
+      - 'supported/games/**'
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Update List File
+      run: |
+        # Count the number of changes in the specified files
+        num_changes=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E 'supported/appids/|supported/games/' | wc -l)
+        
+        # Update the list file with the number of changes
+        echo $num_changes > supported/list
+        
+        # Commit and push the changes
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add supported/list
+        git commit -m "Update list with $num_changes changes"
+        git push
+      working-directory: ${{ github.workspace }}

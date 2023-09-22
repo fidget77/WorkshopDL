@@ -3,8 +3,8 @@ name: Update List on File Changes
 on:
   push:
     paths:
-      - 'supported/appids/**'
-      - 'supported/games/**'
+      - 'supported/appids'
+      - 'supported/games'
 
 jobs:
   update-list:
@@ -16,16 +16,20 @@ jobs:
 
     - name: Update List File
       run: |
-        # Count the number of changes in the specified files
-        num_changes=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E 'supported/appids/|supported/games/' | wc -l)
-        
-        # Update the list file with the number of changes
-        echo $num_changes > supported/list
-        
+        # Initialize a counter if it doesn't exist
+        if [ ! -f supported/list ]; then
+          echo '0' > supported/list
+        fi
+
+        # Increment the counter for each change
+        counter=$(cat supported/list)
+        counter=$((counter + 1))
+        echo "$counter" > supported/list
+
         # Commit and push the changes
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
         git add supported/list
-        git commit -m "Update list with $num_changes changes"
+        git commit -m "Increment list counter to $counter"
         git push
       working-directory: ${{ github.workspace }}

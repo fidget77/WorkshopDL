@@ -14,12 +14,12 @@ I've decided to make my own standalone workshop downloader with a GUI to make th
 
 
 ### Screenshots
-[![Screenshot](https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/screenshots/screenshot1.png)](https://github.com/VovoloGames/WorkshopDL/releases)
+[![Screenshot](https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/screenshots/screenshot1.png)](https://github.com/imwaitingnow/WorkshopDL-installer/releases)
 <details closed>
 <summary>Click to view more screenshots</summary>
 <br>
 
-[![Screenshot](https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/screenshots/screenshot2.png)](https://github.com/VovoloGames/WorkshopDL/releases)
+[![Screenshot](https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/screenshots/screenshot2.png)](https://github.com/imwaitingnow/WorkshopDL-installer/releases)
 
 [![Screenshot](https://raw.githubusercontent.com/imwaitingnow/WorkshopDL-installer/main/screenshots/screenshot3.png)](https://github.com/imwaitingnow/WorkshopDL-installer/releases)
 </details>
